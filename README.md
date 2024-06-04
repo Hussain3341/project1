@@ -1,2 +1,2 @@
 # project1
-My new github project for practice
+My new github project for practice.
